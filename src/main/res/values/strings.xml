@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">GoodbyeBixby</string>
+    <string name="accessibility_service_desc">Goodbye Bixby requires permission to run as a accessibility service.\n\nPlease turn Goodbye Bixby on in Accessibility Settings.</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="open_accessibility">Open Accessibility</string>
+    <string name="remap_desc">Remap BixBy to suit your needs</string>
+    <string name="single_click">Single Click</string>
+    <string name="double_click">Double Click</string>
+    <string name="long_press">Long Press</string>
+    <string name="none">None</string>
+    <string name="haptic_feedback">Long Press Haptic Feedback</string>
+    <string name="long_press_interval">Long Press Interval</string>
+    <string name="double_click_interval">Double Click Interval</string>
+
+    <string name="system_actions">System Actions</string>
+    <string name="open_app">Open App</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="recent_app">Recent Apps</string>
+    <string name="last_app">Last App</string>
+    <string name="google_now">Google Now Cards</string>
+    <string name="google_now_voice">Google Now Voice</string>
+    <string name="notifications">Notifications</string>
+    <string name="quick_settings">Quick Settings</string>
+    <string name="split_screen">Split Screen</string>
+    <string name="power_menu">Power Menu</string>
+    <string name="flash">Toggle Flash</string>
+    <string name="camera">Camera</string>
+
+    <string name="preference_key">goodbyebixby_prefs</string>
+
+    <string name="accessibility_service_text">
+        GoodbyeBixby allows you to remap the dedicated Bixby button to anything you want.\n\n
+        GoodbyeBixby needs permission for the following:\n\n
+
+        - Observe your actions and text:\n
+        Required to monitor the Bixby button.\n
+        It only listens to the Bixby button.\n
+        Nothing more.\n\n
+
+        - Vibration:\n
+        Required to vibrate when long-pressing the Bixby button.
+    </string>
+</resources>
